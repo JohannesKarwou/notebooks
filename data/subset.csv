@@ -1,5 +1,5 @@
 ,,,,,,,,,,"switch",,,,,"vswitch"
-,"iupac","paper name","smiles","exp","ref_fleck","ref_stefan","ref_charmm","ref dG (TF)","ref std (TF)","corr_fleck","cor_stefan","cor_charmm","cor dG (TF)","cor std (TF)","vswitch dG (TF)"
+,"iupac","paper name","smiles","exp","ref_fleck","cor_stefan","cor_charmm","cor dG (TF)","cor std (TF)","ref_fleck","ref_stefan","ref_charmm","ref dG (TF)","ref std (TF)","vswitch dG (TF)"
 0,"methane",,"C",1.99,2.39,2.431,2.431,2.45,0.03,2.39,2.431,2.431,2.45,0.03,2.5
 1,"ethane",,"CC",1.83,2.25,2.294,2.294,2.31,0.05,2.25,2.294,2.294,2.31,0.05,2.4
 2,"ethanol",,"CCO",-5.01,,-4.585,-4.585,-4.51,0.05,,-4.585,-4.585,-4.51,0.05,-4.34
